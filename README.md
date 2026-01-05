@@ -201,7 +201,3 @@ For the January 2026 California floods:
 ## License
 
 MIT
-
----
-
-Built by [Ecological Intelligence](https://ecodash.ai)
